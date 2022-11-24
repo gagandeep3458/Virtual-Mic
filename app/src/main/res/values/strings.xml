@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Virtual Mic</string>
+    <string name="hint_local_ip_address">LOCAL IP ADDRESS</string>
+    <string name="start_streaming">START STREAMING</string>
+    <string name="stop_streaming">STOP STREAMING</string>
+</resources>

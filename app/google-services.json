@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82352502919",
+    "project_id": "virtual-mic",
+    "storage_bucket": "virtual-mic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82352502919:android:5a7ba25a691ab2b4412022",
+        "android_client_info": {
+          "package_name": "com.cuttingedge.virtualmic.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82352502919-vavir5gc8or7rrkag7kfdrp5sk3n6o9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuttingedge.virtualmic.development",
+            "certificate_hash": "be58d4a1567addb376c489dd199b8be5011f9cd6"
+          }
+        },
+        {
+          "client_id": "82352502919-itghie2qfo76t1vspglo1q91ajmhmafu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC97LrF7oZM-sRHtV9IrAi6ZoackUsYrQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82352502919-itghie2qfo76t1vspglo1q91ajmhmafu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
